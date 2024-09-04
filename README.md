@@ -9,8 +9,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
 
-- 🔭 I’m currently working on **SocialDistribution**
-
 - 🌱 I’m currently learning **Flutter,Angular**
   
 - 💬 Ask me about **Android,React**
