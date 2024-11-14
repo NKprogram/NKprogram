@@ -13,7 +13,7 @@
   
 - 💬 Ask me about **Node.js,React**
   
-- 📩 For inquiries or to get in touch, please email me at nuuradin.sj@gmail.com.
+- 📩 For inquiries or to get in touch, please email me at nuuradin.sj@gmail.comm
 
 - ⚡ Fun fact **I am an avid reader of manga**
 
@@ -31,13 +31,45 @@
 </div>
 
 
- <hr/>
- 
+
+
+<hr/>
+
 <h3 align="center">💻 Tech Stack 💻</h3>
-<div align="center">
-    <div><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,css,html,python,typescript,react" /></div>
-    <div><img src="https://skillicons.dev/icons?i=django,flask,tailwind,mongodb,mysql,postgres,sqlite,firebase" /></div>
-    <div><img src="https://skillicons.dev/icons?i=git,unity,androidstudio,nodejs,visualstudio,gradle," /></div>
-    <div><img src="https://skillicons.dev/icons?i=matlab,pytorch,heroku,linux" /></div>
-</div>
+<table align="center">
+    <tr>
+        <td align="center"><strong>Frontend</strong></td>
+        <td align="center"><strong>Backend</strong></td>
+        <td align="center"><strong>Databases</strong></td>
+        <td align="center"><strong>Cloud & DevOps</strong></td>
+        <td align="center"><strong>Tools & Platforms</strong></td>
+        <td align="center"><strong>Data Science & Machine Learning</strong></td>
+    </tr>
+    <tr>
+        <!-- Frontend Icons -->
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,swift" />
+        </td>
+        <!-- Backend Icons -->
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=python,java,nodejs,flask,django,c,cpp,cs" />
+        </td>
+        <!-- Databases Icons -->
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" />
+        </td>
+        <!-- Cloud & DevOps Icons -->
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=aws,heroku" />
+        </td>
+        <!-- Tools & Platforms Icons -->
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode,pycharm,anaconda,gradle,visualstudio" />
+        </td>
+        <!-- Data Science & Machine Learning Icons -->
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=matlab,pytorch" />
+        </td>
+    </tr>
+</table>
 
