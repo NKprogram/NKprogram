@@ -9,9 +9,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
 
-- 🌱 I’m currently learning **Flutter,Angular**
+- 🌱 I’m currently learning **AWS,Swift**
   
-- 💬 Ask me about **Android,React**
+- 💬 Ask me about **Node.js,React**
   
 - 📩 For inquiries or to get in touch, please email me at nuuradin.sj@gmail.com.
 
