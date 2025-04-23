@@ -1,4 +1,3 @@
-<div align="center"> <img src="https://media.licdn.com/dms/image/D5616AQHY0vIkWQPyCw/profile-displaybackgroundimage-shrink_350_1400/0/1675709068267?e=1715817600&v=beta&t=PkFHZY_eUXjyd_joLc2OgQBlED02Wx2elR8xZgi8Imk"> </div>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nkprogram&label=Profile%20views&color=0e75b6&style=flat" alt="nkprogram" /> </p>
 
 <h1 align="center">
