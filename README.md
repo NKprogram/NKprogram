@@ -9,10 +9,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
 
-- 🌱 I’m currently learning **AWS,Swift**
-  
-- 💬 Ask me about **Node.js,React**
-  
 - 📩 For inquiries or to get in touch, please email me at nuuradin.sj@gmail.comm
 
 - ⚡ Fun fact **I am an avid reader of manga**
@@ -34,42 +30,47 @@
 
 
 <hr/>
-
 <h3 align="center">💻 Tech Stack 💻</h3>
+
 <table align="center">
-    <tr>
-        <td align="center"><strong>Frontend</strong></td>
-        <td align="center"><strong>Backend</strong></td>
-        <td align="center"><strong>Databases</strong></td>
-        <td align="center"><strong>Cloud & DevOps</strong></td>
-        <td align="center"><strong>Tools & Platforms</strong></td>
-        <td align="center"><strong>Data Science & Machine Learning</strong></td>
-    </tr>
-    <tr>
-        <!-- Frontend Icons -->
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,swift" />
-        </td>
-        <!-- Backend Icons -->
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=python,java,nodejs,flask,django,c,cpp,cs" />
-        </td>
-        <!-- Databases Icons -->
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" />
-        </td>
-        <!-- Cloud & DevOps Icons -->
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=aws,heroku" />
-        </td>
-        <!-- Tools & Platforms Icons -->
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode,pycharm,anaconda,gradle,visualstudio" />
-        </td>
-        <!-- Data Science & Machine Learning Icons -->
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=matlab,pytorch" />
-        </td>
-    </tr>
+  <tr>
+    <th>Languages</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Databases</th>
+    <th>Cloud & DevOps</th>
+    <th>Tools & Platforms</th>
+    <th>AI / ML</th>
+  </tr>
+  <tr>
+    <!-- Languages -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,go,c,cs,cpp" />
+    </td>
+    <!-- Frontend -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind" />
+    </td>
+    <!-- Backend -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,flask,django,express" />
+    </td>
+    <!-- Databases -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,supabase" />
+    </td>
+    <!-- Cloud & DevOps -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,heroku,docker,azure,githubactions" />
+    </td>
+    <!-- Tools & Platforms -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pycharm,androidstudio,anaconda,gradle,visualstudio" />
+    </td>
+    <!-- AI / ML -->
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch,matlab,tensorflow" />
+    </td>
+  </tr>
 </table>
 
